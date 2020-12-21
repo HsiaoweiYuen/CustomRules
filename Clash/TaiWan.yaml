@@ -1,0 +1,42 @@
+  # > TikTok
+  - PROCESS-NAME,com.ss.android.ugc.trill
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,muscdn.com
+  - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-KEYWORD,-tiktokcdn-com
+  # > Spotify
+  - PROCESS-NAME,com.spotify.music
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-KEYWORD,spotify.com
+  - DOMAIN-KEYWORD,-spotify-com
+  # > Bahamut
+  - PROCESS-NAME,tw.com.gamer.android.animad
+  - DOMAIN-SUFFIX,bahamut.com.tw
+  - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN,gamer-cds.cdn.hinet.net
+  - DOMAIN,gamer2-cds.cdn.hinet.net
+  # > KKTV
+  - PROCESS-NAME,com.kktv.kktv
+  - DOMAIN-SUFFIX,kktv.com.tw
+  - DOMAIN-SUFFIX,kktv.me
+  - DOMAIN,kktv-theater.kk.stream
+  # > LINE TV
+  - PROCESS-NAME,com.linecorp.linetv
+  - DOMAIN-SUFFIX,linetv.tw
+  - DOMAIN,d3c7rimkq79yfu.cloudfront.net
+  # > LiTV
+  - PROCESS-NAME,com.litv.mobile.gp.litv
+  - DOMAIN-SUFFIX,litv.tv
+  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+  # > 台湾好
+  - PROCESS-NAME,com.twgood.android
+  - DOMAIN-SUFFIX,skyking.com.tw
+  - DOMAIN,hamifans.emome.net
