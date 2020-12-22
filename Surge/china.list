@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 # > Apple
+DOMAIN,testflight.apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
